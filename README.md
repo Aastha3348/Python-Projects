@@ -1,4 +1,7 @@
 # Python-Projects
+
+#### Here, the open source software used is Jupyter Notebook. For python projects in other softwares refer to other repositories
+
 This repository is created to showcase all the python projects done by me. These projects are very easy and anyone can easily make them by following the Steps that I've explained . 
 Follow up and Make one yourself and tell me about it!!!!
 
