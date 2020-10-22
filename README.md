@@ -1,5 +1,6 @@
 # Python-Projects
-This repository is created to showcase all the python projects done by me. 
+This repository is created to showcase all the python projects done by me. These projects are very easy and anyone can easily make them by following the Steps that I've explained . 
+Follow up and Make one yourself and tell me about it!!!!
 
 ## Python
   - Python is an interpreted, high-level and general-purpose programming language.
